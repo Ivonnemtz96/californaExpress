@@ -5,7 +5,7 @@
     </div>
     <div class="tpoffcanvas__logo">
       <a href="index.html">
-        <img src="assets/img/logo/black-logo.png" alt="">
+        <img src="/assets/img/logo/black-logo.png" alt="">
       </a>
     </div>
     <div class="tp-main-menu-mobile"></div>
@@ -35,7 +35,7 @@
           <div class="search__top d-flex justify-content-between align-items-center">
             <div class="search__logo">
               <a href="index.html">
-                <img src="assets/img/logo/footer-logo.png" alt="logo">
+                <img src="/assets/img/logo/footer-logo.png" alt="logo">
               </a>
             </div>
             <div class="search__close">
@@ -82,7 +82,7 @@
           <div class="row align-items-center">
             <div class="col-xl-4">
               <div class="main-logo ">
-                <a href="index.html"><img src="assets/img/logo/black-logo.png" alt=""></a>
+                <a href="index.html"><img src="/assets/img/logo/black-logo.png" alt=""></a>
               </div>
             </div>
             <div class="col-xl-8">
@@ -135,7 +135,7 @@
                         <div class="row gx-6 row-cols-1 row-cols-md-2 row-cols-xl-3">
                           <div class="col homemenu">
                             <div class="homemenu-thumb mb-15">
-                              <img src="assets/img/menu/home-1.jpg" alt="">
+                              <img src="/assets/img/menu/home-1.jpg" alt="">
                               <div class="homemenu-btn">
                                 <a class="tp-menu-btn" href="index.html">View Demo</a>
                               </div>
@@ -148,7 +148,7 @@
                           </div>
                           <div class="col homemenu">
                             <div class="homemenu-thumb mb-15">
-                              <img src="assets/img/menu/home-2.jpg" alt="">
+                              <img src="/assets/img/menu/home-2.jpg" alt="">
                               <div class="homemenu-btn">
                                 <a class="tp-menu-btn" href="index-2.html">View Demo</a>
                               </div>
@@ -161,7 +161,7 @@
                           </div>
                           <div class="col homemenu">
                             <div class="homemenu-thumb mb-15">
-                              <img src="assets/img/menu/home-3.jpg" alt="">
+                              <img src="/assets/img/menu/home-3.jpg" alt="">
                               <div class="homemenu-btn">
                                 <a class="tp-menu-btn" href="index-3.html">View Demo</a>
                               </div>
@@ -233,7 +233,7 @@
       <div class="row align-items-center">
         <div class="col-6">
           <div class="main-logo ">
-            <a href="index.html"><img src="assets/img/logo/black-logo.png" alt=""></a>
+            <a href="index.html"><img src="/assets/img/logo/black-logo.png" alt=""></a>
           </div>
         </div>
         <div class="col-6">

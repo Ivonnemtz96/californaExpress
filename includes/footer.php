@@ -2,10 +2,10 @@
 <footer>
   <div class="footer-area theme-background pt-120 pb-80 p-relative fix">
     <div class="tp-footer__right-bg wow slideInLeft   ">
-      <img src="assets/img/footer/footer-left-trns.png" alt="">
+      <img src="/assets/img/footer/footer-left-trns.png" alt="">
     </div>
     <div class="tp-footer__car">
-      <img class=" tp-footer__shape-1 movingX" src="assets/img/footer/footer-car.png" alt="">
+      <img class=" tp-footer__shape-1 movingX" src="/assets/img/footer/footer-car.png" alt="">
     </div>
     <div class="container">
       <div class="row">
@@ -13,7 +13,7 @@
           <div class="tp-footer__widget  tp-footer-col-1 mb-40  wow fadeInUp  " data-wow-duration=".9s"
             data-wow-delay=".3s">
             <a href="index.html" class="tp-footer__widget-logo">
-              <img src="assets/img/logo/footer-logo.png" alt="">
+              <img src="/assets/img/logo/footer-logo.png" alt="">
             </a>
             <div class="tp-footer__text mt-15 mb-25">
               <p>Desires to obtain pain of it because it is pain, but occasionally circum</p>
@@ -88,17 +88,17 @@
             <h4 class="tp-footer__widget-title">Our Gallery</h4>
             <div class="tp-footer__fw-insta">
               <ul>
-                <li><a href="#"><i class="fa-brands fa-linkedin-in"></i> <img src="assets/img/instagram/instagram-1.jpg"
+                <li><a href="#"><i class="fa-brands fa-linkedin-in"></i> <img src="/assets/img/instagram/instagram-1.jpg"
                       alt=""></a></li>
-                <li><a href="#"><i class="fa-brands fa-linkedin-in"></i><img src="assets/img/instagram/instagram-2.jpg"
+                <li><a href="#"><i class="fa-brands fa-linkedin-in"></i><img src="/assets/img/instagram/instagram-2.jpg"
                       alt=""></a></li>
-                <li><a href="#"><i class="fa-brands fa-linkedin-in"></i> <img src="assets/img/instagram/instagram-3.jpg"
+                <li><a href="#"><i class="fa-brands fa-linkedin-in"></i> <img src="/assets/img/instagram/instagram-3.jpg"
                       alt=""></a></li>
-                <li><a href="#"><i class="fa-brands fa-linkedin-in"></i><img src="assets/img/instagram/instagram-4.jpg"
+                <li><a href="#"><i class="fa-brands fa-linkedin-in"></i><img src="/assets/img/instagram/instagram-4.jpg"
                       alt=""></a></li>
-                <li><a href="#"><i class="fa-brands fa-linkedin-in"></i><img src="assets/img/instagram/instagram-5.jpg"
+                <li><a href="#"><i class="fa-brands fa-linkedin-in"></i><img src="/assets/img/instagram/instagram-5.jpg"
                       alt=""></a></li>
-                <li><a href="#"><i class="fa-brands fa-linkedin-in"></i><img src="assets/img/instagram/instagram-6.jpg"
+                <li><a href="#"><i class="fa-brands fa-linkedin-in"></i><img src="/assets/img/instagram/instagram-6.jpg"
                       alt=""></a></li>
               </ul>
             </div>
