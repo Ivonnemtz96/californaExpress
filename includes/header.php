@@ -5,22 +5,22 @@
     </div>
     <div class="tpoffcanvas__logo">
       <a href="/">
-        <img src="/assets/img/logo/black-logo.png" alt="">
+        <img src="/assets/img/logo/logo.png" style="width: 7rem;" alt="">
       </a>
     </div>
     <div class="tp-main-menu-mobile"></div>
     <div class="offcanvas__btn mb-20">
-      <a href="contact.html" class="tp-btn w-100">Contactar ahora</a>
+      <a href="/#cotizar" class="tp-btn w-100">Cotizar</a>
     </div>
     <div class="offcanvas__contact mb-40">
-      <p class="offcanvas__contact-call"><a href="tel:+521234567890">+52 123 456 7890</a></p>
-      <p class="offcanvas__contact-mail"><a href="mailto:info@californiaexpress.com">info@californiaexpress.com</a></p>
+      <p class="offcanvas__contact-call"><a href="tel:+5216631165398">+52 663 116 5398</a></p>
+      <p class="offcanvas__contact-mail"><a href="mailto:info@californiasexpress.com">info@californiasexpress.com</a></p>
     </div>
     <div class="offcanvas__social">
-      <a href="#"><i class="fab fa-facebook-f"></i></a>
+      <a href="https://www.facebook.com/LOGISTICA.Y.TRANSPORTE.TJ"><i class="fab fa-facebook-f"></i></a>
       <!-- <a href="#"><i class="fab fa-twitter"></i></a>
       <a href="#"><i class="fab fa-linkedin"></i></a> -->
-      <a href="#"><i class="fab fa-instagram"></i></a>
+      <a href="https://www.instagram.com/californiasexpress.tl/"><i class="fab fa-instagram"></i></a>
     </div>
   </div>
 </div>
@@ -35,7 +35,7 @@
           <div class="row align-items-center">
             <div class="col-xl-4">
               <div class="main-logo ">
-                <a href="/"><img src="/assets/img/logo/black-logo.png" alt=""></a>
+                <a href="/"><img src="/assets/img/logo/logo.png" style="width: 7rem;" alt=""></a>
               </div>
             </div>
             <div class="col-xl-8">
@@ -54,8 +54,8 @@
                     <div class="tp-header__contact d-flex align-items-center">
                       <span class="tp-header__icon"><i class="flaticon-envelope"></i></span>
                       <div class="tp-header__icon-info ml-20">
-                        <label>Email</label>
-                        <span><a href="maito:info@californiaexpress.com">info@californiaexpress.com</a></span>
+                        <label>Correo</label>
+                        <span><a href="maito:info@californiaexpress.com">info@californiasexpress.com</a></span>
                       </div>
                     </div>
                   </div>
@@ -63,8 +63,8 @@
                     <div class="tp-header__contact d-flex align-items-center">
                       <span class="tp-header__icon"><i class="flaticon-telephone"></i></span>
                       <div class="tp-header__icon-info ml-20">
-                        <label>Call Us</label>
-                        <span><a href="tel:+521234567890">123 456 7890</a></span>
+                        <label>Márcanos</label>
+                        <span><a href="tel:+526631165398">663 116 5398</a></span>
                       </div>
                     </div>
                   </div>
@@ -84,9 +84,9 @@
                 <nav class="tp-main-menu-content">
                   <ul>
                     <li class=""><a href="/">Inicio</a></li>
-                    <li class=""><a href="/">Nosotros</a></li>
-                    <li class=""><a href="/">Servicios</a></li>
-                    <li class=""><a href="/">Cobertura</a></li>
+                    <li class=""><a href="/#nosotros">Nosotros</a></li>
+                    <li class=""><a href="/#servicios">Servicios</a></li>
+                    <li class=""><a href="/#cobertura">Cobertura</a></li>
                     <!-- <li class="has-dropdown"><a href="index.html">PAGES</a>
                       <ul class="tp-submenu">
                         <li><a href="about.html">About</a></li>
@@ -118,14 +118,14 @@
                         <li><a href="blog-details.html">Blog Details</a></li>
                       </ul>
                     </li> -->
-                    <li><a href="/">Contacto</a></li>
+                    <!-- <li><a href="/">Contacto</a></li> -->
                   </ul>
                 </nav>
               </div>
             </div>
             <div class="col-xl-4">
                 <div class="tp-header__btn">
-                  <a class="tp-btn" href="/">Cotizar</a>
+                  <a class="tp-btn" href="/#cotizar">Cotizar</a>
                 </div>
               </div>
             </div>
@@ -139,7 +139,7 @@
       <div class="row align-items-center">
         <div class="col-6">
           <div class="main-logo ">
-            <a href="/"><img src="/assets/img/logo/black-logo.png" alt=""></a>
+            <a href="/"><img src="/assets/img/logo/logo.png" style="width: 7rem;" alt=""></a>
           </div>
         </div>
         <div class="col-6">

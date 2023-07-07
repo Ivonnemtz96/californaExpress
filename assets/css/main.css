@@ -982,8 +982,8 @@ div.demo img {
   -webkit-appearance: none;
   appearance: none;
   outline: none !important;
-  background-color: var(--tp-theme-1);
-  color: var(--tp-heading-1);
+  background-color: var(--tp-theme-2);
+  color: #fff;
   font-size: 16px;
   font-weight: 800;
   padding: 17px 50px;
@@ -998,7 +998,7 @@ div.demo img {
   left: -1px;
   bottom: -1px;
   right: 0px;
-  background-color: var(--tp-theme-2);
+  background-color: #28166f;
   content: "";
   transform: scaleY(0) rotateX(0deg);
   -webkit-transition: all 0.2s linear;
@@ -1209,7 +1209,7 @@ div.demo img {
   left: -1px;
   bottom: -1px;
   right: -1px;
-  background-color: var(--tp-theme-1);
+  background-color: #28166f;
   content: "";
   transform: scaleY(0) rotateX(0deg);
   -webkit-transition: all 0.2s linear;
@@ -1218,7 +1218,7 @@ div.demo img {
   z-index: -1;
 }
 .thm-btn:hover {
-  color: var(--tp-common-black);
+  color: #fff;
 }
 .thm-btn:hover::before {
   transform: scaleY(1) rotateX(0deg);
@@ -2718,7 +2718,7 @@ div.demo img {
   position: absolute;
   top: 0;
   left: 0;
-  background: var(--tp-theme-1);
+  background: #28166f;
   width: 37%;
   height: 100%;
   content: "";
@@ -5796,7 +5796,8 @@ blockquote span {
   }
 }
 .tp-about__icon i {
-  background-color: var(--tp-theme-1);
+  background-color: #28166f;
+  color: #fff;
   height: 48px;
   width: 48px;
   text-align: center;
@@ -8045,7 +8046,8 @@ blockquote span {
   width: 0;
 }
 .tp-choose-3__item:hover .tp-choose-3__icon span {
-  background-color: var(--tp-theme-1);
+  background-color: #28166f;
+  color: #fff;
 }
 .tp-choose-3__item:hover .tp-choose-3__thumb::before {
   opacity: 1;
@@ -8238,7 +8240,7 @@ blockquote span {
 .tp-testimonial__item::after {
   position: absolute;
   content: "";
-  background: var(--tp-heading-1);
+  background: #28166f;
   width: 150px;
   height: 150px;
   bottom: -88px;
@@ -8373,7 +8375,7 @@ blockquote span {
 }
 
 .testimonials-active .swiper-slide-duplicate-prev .tp-testimonial__item::after {
-  background: var(--tp-theme-1);
+  background: #28166f;
 }
 
 .tptestimonial__wrap {

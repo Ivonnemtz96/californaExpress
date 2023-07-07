@@ -8,7 +8,7 @@ include('includes/head.php');
 
 <body>
 
-    <?php
+  <?php
       include('includes/header.php');
       include('modules/index.php');
       include('includes/redes.php');
@@ -16,6 +16,7 @@ include('includes/head.php');
       include('includes/scripts.php');   
     ?>
 
-</body>
+ 
+  </body>
 
 </html>

@@ -7,10 +7,10 @@
           data-background="/assets/img/slider/slider-img.webp">
           <div class="tp-slider__social">
             <ul>
-              <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+              <li><a href="https://www.facebook.com/LOGISTICA.Y.TRANSPORTE.TJ"><i class="fa-brands fa-facebook-f"></i></a></li>
               <!-- <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
                         <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li> -->
-              <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+              <li><a href="https://www.instagram.com/californiasexpress.tl/"><i class="fa-brands fa-instagram"></i></a></li>
             </ul>
           </div>
           <div class="circal">
@@ -46,10 +46,10 @@
           data-background="/assets/img/slider/slider-img-2.webp">
           <div class="tp-slider__social">
             <ul>
-              <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+              <li><a href="https://www.facebook.com/LOGISTICA.Y.TRANSPORTE.TJ"><i class="fa-brands fa-facebook-f"></i></a></li>
               <!-- <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
                         <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li> -->
-              <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+              <li><a href="https://www.instagram.com/californiasexpress.tl/"><i class="fa-brands fa-instagram"></i></a></li>
             </ul>
           </div>
           <div class="circal">
@@ -86,11 +86,11 @@
           data-background="/assets/img/slider/slider-img-3.webp">
           <div class="tp-slider__social">
             <ul>
-              <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-              <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-              <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+              <li><a href="https://www.facebook.com/LOGISTICA.Y.TRANSPORTE.TJ"><i class="fa-brands fa-facebook-f"></i></a></li>
+              <li><a href="https://www.instagram.com/californiasexpress.tl/"><i class="fa-brands fa-instagram"></i></a></li>
+              <!-- <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
               <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
-            </ul>
+            </ul> -->
           </div>
           <div class="circal">
           </div>
@@ -130,12 +130,12 @@
 </div>
 <!-- slider area end -->
 <!-- services area start -->
-<div class="services-area tp-services__ptb pt-120 pb-90 p-relative fix">
+<div class="services-area tp-services__ptb pt-120 pb-90 p-relative fix" id="servicios">
   <div class="tp-services__tran  wow fadeInDownBig    ">
     <img src="/assets/img/services/services-tran.png?=1" alt="">
   </div>
   <div class="tp-services__shap">
-    <img src="/assets/img/services/services-left-img.png" alt="">
+    <!-- <img src="/assets/img/services/services-left-img.png" alt=""> -->
   </div>
   <div class="container">
     <div class="row">
@@ -157,7 +157,7 @@
           </div>
           <div class="tp-services__wrap z-index-2 d-flex align-items-start">
             <div class="tp-services__icon">
-              <i class="flaticon-plane"></i>
+            <i class="flaticon-delivery-truck"></i>
             </div>
             <div class="tp-services__content">
               <h3 class="tp-services__title-1"><a href="#">Importación</a></h3>
@@ -179,7 +179,7 @@
           </div>
           <div class="tp-services__wrap z-index-2 d-flex align-items-start">
             <div class="tp-services__icon">
-              <i class="flaticon-cruise"></i>
+            <i class="flaticon-delivery-truck"></i>
             </div>
             <div class="tp-services__content">
               <h3 class="tp-services__title-1"><a href="#">Exportación</a></h3>
@@ -219,7 +219,7 @@
           </div>
           <div class="tp-services__wrap z-index-2 d-flex align-items-start">
             <div class="tp-services__icon">
-              <i class="flaticon-train"></i>
+            <i class="flaticon-delivery-truck"></i>
             </div>
             <div class="tp-services__content">
               <h3 class="tp-services__title-1"><a href="#">Servicio de flete</a></h3>
@@ -239,7 +239,7 @@
           </div>
           <div class="tp-services__wrap z-index-2 d-flex align-items-start">
             <div class="tp-services__icon">
-              <i class="flaticon-warehouse-1"></i>
+            <i class="flaticon-delivery-truck"></i>
             </div>
             <div class="tp-services__content">
               <h3 class="tp-services__title-1"><a href="#">Servicio de Plataforma</a></h3>
@@ -281,7 +281,7 @@
 </div>
 <!-- video area end -->
 <!-- about area start -->
-<div class="about-area ">
+<div class="about-area " id="nosotros">
   <div class="tp-about__wrap pt-110 pb-60">
     <div class="container">
       <div class="row align-items-start">
@@ -296,7 +296,7 @@
                 Nos apasiona nuestra misión
               </h2>
               <p class="mb-35">
-                California Express es una empresa líder en el sector de servicios de fletes y mudanzas, comprometida en
+                Californias Express es una empresa líder en el sector de servicios de fletes y mudanzas, comprometida en
                 brindar soluciones de transporte confiables y eficientes. Nuestro equipo altamente capacitado se dedica
                 a proporcionar servicios personalizados, ya sea para mudanzas particulares o compartidas, adaptándonos a
                 las necesidades específicas de cada cliente.
@@ -320,7 +320,7 @@
                 </div>
               </div>
               <div class="tp-about__btn-box">
-                <a href="about.html" class="about-two__btn thm-btn">Contactar</a>
+                <a href="#cotizar" class="about-two__btn thm-btn">Contactar</a>
               </div>
             </div>
           </div>
@@ -332,7 +332,7 @@
               <img class="w-100" src="/assets/img/about/about-lg.jpg" alt="">
             </div>
             <div class="tp-about__sm-img">
-              <img class="w-100" src="/assets/img/about/about-sm.jpg?=1" alt="">
+              <img class="w-100" src="/assets/img/about/about-sm.jpg?=2" alt="">
             </div>
           </div>
         </div>
@@ -364,7 +364,7 @@
 
 
 <!-- project area start -->
-<div class="project-area pt-110 fix">
+<div class="project-area pt-110 fix" id="cobertura">
   <div class="container-fluid p-0">
     <div class="row justify-content-center">
       <div class="col-xxl-8 col-xl-8 col-lg-9">
@@ -778,7 +778,7 @@
             ¿Busca el mejor servicio de transporte logístico?
           </h3>
           <div class="cta__btn wow fadeInUp   " data-wow-duration=".9s" data-wow-delay=".7s">
-            <a class="tp-btn" href="tel:+521234567890">Marcar</a>
+            <a class="tp-btn" href="tel:+526631165398">Marcar</a>
           </div>
         </div>
       </div>
@@ -788,7 +788,7 @@
 <!-- cta area end -->
 
 <!-- choose area start -->
-<div class="choose-area pt-120 pb-50 p-relative z-index-1">
+<div class="choose-area pt-120 pb-50 p-relative z-index-1" id="cotizar">
   <div class="tp-choose__circel-img d-none d-md-block">
     <img src="/assets/img/choose/choose-circel-img.png" alt="">
   </div>
@@ -802,13 +802,13 @@
           <div class="choose-section-title z-index">
             <div class="tp-section__subtitle tp-section__subtitle-before mb-15 p-relative wow fadeInUp   "
               data-wow-duration=".9s" data-wow-delay=".7s">
-              ¿Por qué elegir California Express?
+              ¿Por qué elegir Californias Express?
             </div>
             <h2 class="tp-section__title mb-30 wow fadeInUp   " data-wow-duration=".9s" data-wow-delay=".3s">
               Garantizamos gran eficiencia en nuestros traslados
             </h2>
             <p class="mb-35 wow fadeInUp   " data-wow-duration=".9s" data-wow-delay=".5s">
-              Confíe en California Express para todas sus necesidades de fletes y mudanzas. Nuestro compromiso con la
+              Confíe en Californias Express para todas sus necesidades de fletes y mudanzas. Nuestro compromiso con la
               excelencia, la atención al detalle y la satisfacción del cliente <br> nos distingue como la opción
               preferida en
               el mercado. Permítanos encargarnos de sus envíos, mientras usted se relaja sabiendo que sus pertenencias
@@ -921,7 +921,7 @@
       <div class="row align-items-xl-end">
         <div class="col-xl-5 col-lg-5 col-md-12">
           <div class="tp-features__img wow fadeInDownBig   ">
-            <img src="/assets/img/features/features-img.png" alt="">
+            <img src="/assets/img/features/features-img.png?=1" alt="">
           </div>
         </div>
         <div class="col-xl-7 col-lg-7 col-md-12">
@@ -1065,3 +1065,12 @@
   </div>
 </div>
 <!-- testimonial area end -->
+
+
+
+
+<a id="popuplink" href="#inline" style="display:none;"></a>
+  <div id="inline" style="display:none; padding-bottom: 30px; text-align: center; width:auto;">
+    <a style="margin-bottom: 10px;" onclick="jQuery.fancybox.close();" href="#" class="thm-btn">¡Cerrar!</a> <br>
+    <img style="max-width:80%" src="/assets/img/01.png" alt="">
+  </div>

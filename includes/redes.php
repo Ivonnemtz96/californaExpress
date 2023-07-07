@@ -180,19 +180,19 @@
 </style>
 
 <div class="whats-float">
-  <a href="https://wa.me/+526121552640?text=Hola%20me%20gustaría%20agendar%20una%20cita." target="_blank">
-    <i class="fa-brands fa-whatsapp"></i><span>WhatsApp<br><small>6121552640</small></span>
+  <a href="https://wa.me/+526631165398?text=Hola%20me%20gustaría%20una%20cotización." target="_blank">
+    <i class="fa-brands fa-whatsapp"></i><span>WhatsApp<br><small>6631165398</small></span>
   </a>
 </div>
 
 <div class="insta-float">
-  <a href="https://instagram.com/windowcoverings_bcs?igshid=MzRlODBiNWFlZA==" target="_blank">
-    <i class="fa-brands fa-instagram"></i><span>Instagram<br><small>@windowcoverings_bcs</small></span>
+  <a href="https://www.instagram.com/californiasexpress.tl/" target="_blank">
+    <i class="fa-brands fa-instagram"></i><span>Instagram<br><small>@californiasexpress.tl</small></span>
   </a>
 </div>
 
 <div class="fb-float">
-  <a href="https://www.facebook.com/SenzPersianasLPZ" target="_blank">
-    <i style="margin: 0px 0px;" class="fa-brands fa-facebook"></i><span><small>Window Coverings</small></span>
+  <a href="https://www.facebook.com/LOGISTICA.Y.TRANSPORTE.TJ" target="_blank">
+    <i style="margin: 0px 0px;" class="fa-brands fa-facebook"></i><span><small>Californias Express</small></span>
   </a>
 </div>
