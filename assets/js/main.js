@@ -187,9 +187,9 @@
 
 			min: 0,
 
-			max: 500,
+			max: 20000,
 
-			values: [0, 300],
+			values: [0, 5000],
 
 			slide: function (event, ui) {
 
